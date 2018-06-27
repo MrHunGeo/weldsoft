@@ -78,6 +78,10 @@ h2:after {
     color: #3d56ed;
 }
 
+.btns.light:hover {
+    color: #e3c252;
+}
+
 .btns.dark:hover {
     color: #e3c252;
 }
